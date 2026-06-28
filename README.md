@@ -49,12 +49,15 @@ Clone the repository:
 ```bash
 git clone https://github.com/your-username/danish-green-tech.git
 cd danish-green-tech
-Install project dependencies:
+
 ```
+
+Install project dependencies:
 
 ```bash
 npm install
 ```
+
 Run the local development server:
 
 ```bash
