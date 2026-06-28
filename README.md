@@ -54,8 +54,8 @@ Install project dependencies:
 
 ```bash
 npm install
-Run the local development server:
 ```
+Run the local development server:
 
 ```bash
 npm run dev
